@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=REM&display=swap');
+
+:root{
+    --color-white: hsl(321,100%,97%);
+    --color-light: hsl(322,28%,92%);
+    --color-primary: hsl(289,100%,50%);
+    --color-dark: hsl(320,85%,64%);
+    --color-secondary: hsl();
+    --color-success: hsl();
+    --color-danger: hsl();
+    --color-black: hsl();
+    --color-gray: hsl();
+
+    --border-radius: 2rem;
+    --card-border-radius: 1rem;
+    --btn-padding: 0.6rem 2rem;
+    --search-padding: 0.6rem 1rem;
+    --card-padding: 1rem
+}
+
+*,*::before, *::after{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    border: none;
+}
+
+body{
+    font-family:'REM', sans-serif;
+    color: var(--color-dark);
+    background: var(--color-light);
+    overflow-x: hidden;
+}
+
+.container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.profile-photo{
+    width: 2.7rem;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.pfp img{
+    display: block;
+    width: 30%;
+}
+
+.btn{
+    display: inline-block;
+    padding: var(--btn-padding);
+    font-weight: 500;
+}
