@@ -21,7 +21,7 @@ Social contacts are crucial to our existence in a linked society like ours. MySo
 - **Interactivity:** Share, like, and comment on other users' postings. Experience the responsive buttons and simple user interface of the social media ecosystem.
 
 ## Demo
--https://aru-2359.github.io/SocialMediaApp.github.io/ 🐋🐋
+https://aru-2359.github.io/SocialMediaApp.github.io/ 🐋🐋
 
 ## Usage
 
