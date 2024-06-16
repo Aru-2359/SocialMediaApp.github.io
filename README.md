@@ -40,5 +40,3 @@ This project is a personal endeavor and contributions are not actively sought. H
 This project is licensed under the [MIT License](LICENSE).
 
 Join me as I explore social media through the lenses of HTML, CSS, and JavaScript to learn the power of web development.
-
-[CoderGirl@Arunetri💀]
